@@ -3,6 +3,7 @@
 ### Setting up the Virtual Environment
 
 Open terminal and run:
+
 $ python -m venv venv  
 $ source venv/Scripts/Activate  
 $ pip install -r requirements.txt
