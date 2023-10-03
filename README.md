@@ -6,7 +6,7 @@ Open terminal and run:
 
 $ python -m venv venv  
 $ source venv/Scripts/Activate  
-$ pip install -r requirements.txt
+$ pip install -r requirements.txt  
 $ python 'name of the .py file'
 
 1. Command to create Virtual Environment in Git Bash "python -m venv venv"
