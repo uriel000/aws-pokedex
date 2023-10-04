@@ -40,7 +40,7 @@ def search_pokemon(name):
         print("====================================")
 
     except:
-        print(f"\n{name} does not exist. Please try again")
+        print(f'\n"{name}" does not exist. Please try again')
 
 
 if __name__ == "__main__":
